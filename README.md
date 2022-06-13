@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @JunieXD
 - 🌱 I’m currently learning C language
-- 📫 Contact me by email：1240840076@qq.com
