@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @JunieXD
 - 🌱 I’m currently learning C language
+- ❤  I'm glad to be friend with you
