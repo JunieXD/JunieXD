@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @JunieXD
-- 🌱 I’m currently learning C language
-- ❤  I'm glad to be friend with you
+Hello! I'm a college student from China.
+I want to contribute to open source projects.
